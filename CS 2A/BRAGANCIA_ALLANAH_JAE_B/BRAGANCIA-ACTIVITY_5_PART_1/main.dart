@@ -62,8 +62,8 @@ void main() {
 
   // Increase kindness
   _printHeader('  Petting & Feeding Pets');
-  for (int i = 0; i < 5; i++) {
-    petHome[0].pet(50);
+  for (int i = 0; i < 15; i++) {
+    petHome[0].pet(90);
   }
   print('');
 
