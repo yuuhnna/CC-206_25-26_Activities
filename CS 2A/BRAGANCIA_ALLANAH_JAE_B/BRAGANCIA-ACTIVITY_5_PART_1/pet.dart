@@ -36,7 +36,7 @@ class Pet extends Animal {
   void kick(int amount) {
     _kindness -= amount;
     print(
-      '$name was kicked! Kindness decreased by $amount!\nKindess Value: $_kindness\n',
+      '$name was kicked! Kindness decreased by $amount!\nKindness Value: $_kindness\n',
     );
   }
 
