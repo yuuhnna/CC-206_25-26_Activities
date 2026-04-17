@@ -5,7 +5,7 @@ void main() {
   // === ZOO ===
 
   // CONCEPT 9: List - stores multiple Animal objects
-  //Cncept 10: Using target-typed 'new' for shorter object creation
+  //Concept 10: Using target-typed 'new' for shorter object creation
   List<Animal> zoo = [
     Animal('Bird', 'Aves', DateTime(2019, 3, 15), 2),
     Animal('Dog', 'Mammalia', DateTime(2018, 7, 22), 4),
